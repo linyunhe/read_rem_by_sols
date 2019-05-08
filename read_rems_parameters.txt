@@ -1,0 +1,6 @@
+REM folder: "E:/BAM/Simulation_Test/mslrem_1001_rmd_data/"
+Sol nums: "566,574,589,636,640,648,655,665,672,688,737,753,944,990,1030,1100,1106,1220,1282,1342,1357,1382,1400,1428,1438"
+Time type: "True"
+Solar time: "15.47"
+Output folder: "E:/BAM/Simulation_Test/mslrem_1001_rmd_data/"
+output filename: "test.txt"
